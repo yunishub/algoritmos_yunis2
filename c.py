@@ -1,3 +1,4 @@
+# c. Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.
 import sys
 def soma_algarismos(a, b):
     a = int(a)
@@ -25,4 +26,5 @@ def main():
     print("Soma:", resultado)
 
 if __name__ == "__main__":
+
     main()
