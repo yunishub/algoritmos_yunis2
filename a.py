@@ -1,5 +1,4 @@
-import sys 
+nome = input("Digite seu nome: ")
+nomec = nome.capitalize()
 
-print(f"Número de parâmetros: {len(sys.argv)}")
-for n, p in enumerate(sys.argv):
-    print(f"Parâmetro {n} = {p}")
+print(f"Olá {nomec}, é um prazer te conhecer!")
