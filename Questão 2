@@ -1,0 +1,17 @@
+a. Sistemas de recomendações: Algoritmos de recomendação analisam o histórico de interações do usuário, como os filmes assistidos ou músicas ouvidas, para sugerir novos conteúdos que possam interessá-lo.
+Ex: Spotify, YouTube.
+
+b. Relevância de dados: Algoritmos de relevância, como o PageRank do Google, são responsáveis por ordenar os resultados de uma pesquisa, levando em consideração a relevância das páginas para a consulta realizada.
+Ex: Motores de busca como Google, Bing.
+
+c. Previsões e análises: Algoritmos de previsão utilizam grandes volumes de dados históricos e atuais, como temperatura, pressão atmosférica, velocidade do vento, entre outros, para prever as condições climáticas futuras.
+Ex: Serviços de meteorologia como ClimaTempo, Weather.com.
+
+d. Navegação por GPS: Algoritmos de navegação utilizam dados em tempo real (como o tráfego de veículos e condições de estradas) e informações de mapas para calcular a melhor rota entre dois pontos.
+Ex: Google Maps, Waze. 
+
+e. Funcionamento de jogos: Algoritmos são usados tanto para a inteligência artificial dos oponentes quanto para o comportamento dinâmico do jogo.
+Ex: Jogos como xadrez, jogos de tiro em primeira pessoa (FPS).
+
+f. Programação: Quando um programador escreve código-fonte em uma linguagem de programação (como Python ou Java), o compilador utiliza algoritmos para analisar e transformar o código em um formato que o computador consiga entender.
+Ex: Compiladores como GCC, javac.
